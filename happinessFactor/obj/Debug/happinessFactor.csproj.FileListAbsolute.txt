@@ -1,0 +1,14 @@
+C:\src\happinessFactor\happinessFactor\bin\Debug\happinessFactor.exe.config
+C:\src\happinessFactor\happinessFactor\bin\Debug\happinessFactor.exe
+C:\src\happinessFactor\happinessFactor\bin\Debug\happinessFactor.pdb
+C:\src\happinessFactor\happinessFactor\obj\Debug\happinessFactor.csprojResolveAssemblyReference.cache
+C:\src\happinessFactor\happinessFactor\obj\Debug\MainWindow.g.cs
+C:\src\happinessFactor\happinessFactor\obj\Debug\App.g.cs
+C:\src\happinessFactor\happinessFactor\obj\Debug\happinessFactor_MarkupCompile.cache
+C:\src\happinessFactor\happinessFactor\obj\Debug\happinessFactor_MarkupCompile.lref
+C:\src\happinessFactor\happinessFactor\obj\Debug\MainWindow.baml
+C:\src\happinessFactor\happinessFactor\obj\Debug\happinessFactor.g.resources
+C:\src\happinessFactor\happinessFactor\obj\Debug\happinessFactor.Properties.Resources.resources
+C:\src\happinessFactor\happinessFactor\obj\Debug\happinessFactor.csproj.GenerateResource.Cache
+C:\src\happinessFactor\happinessFactor\obj\Debug\happinessFactor.exe
+C:\src\happinessFactor\happinessFactor\obj\Debug\happinessFactor.pdb
